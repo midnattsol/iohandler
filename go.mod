@@ -1,4 +1,4 @@
-module github.com/middnatsol/iohandler
+module github.com/midnattsol/iohandler
 
 go 1.18
 
